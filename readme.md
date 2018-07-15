@@ -1,10 +1,9 @@
 
-## Gravestone CRM
-**Från inventering till säker sten**
+## Selecto test
+**Yurii Danylets**
 
 ##Contents
-1. [Requirements](./docs/requirements.md)
-2. [Installation(backend)](./docs/installation.md)
-3. [Compilation(React)](./docs/compilation.md)
-4. [Backend structure](./docs/backend_structure.md)
-5. [Frontend structure](./docs/frontend_structure.md)
+1. [Installation(backend)](./docs/installation.md)
+2. [Compilation(React)](./docs/compilation.md)
+3. [Backend structure](./docs/backend_structure.md)
+4. [Frontend structure](./docs/frontend_structure.md)
