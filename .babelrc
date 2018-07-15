@@ -1,0 +1,11 @@
+{
+  "presets": [["env", {
+    "targets": {
+      "browsers": "safari 7"
+    },
+    "modules": false
+  }], "react", "stage-0"],
+  "plugins": [
+    "transform-class-properties"
+  ]
+}
